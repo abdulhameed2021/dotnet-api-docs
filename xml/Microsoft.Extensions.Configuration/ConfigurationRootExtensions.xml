@@ -67,7 +67,7 @@
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="root" Type="Microsoft.Extensions.Configuration.IConfigurationRoot" Index="0" FrameworkAlternate="dotnet-plat-ext-7.0" RefType="this" />
+        <Parameter Name="root" Type="Microsoft.Extensions.Configuration.IConfigurationRoot" RefType="this" Index="0" FrameworkAlternate="dotnet-plat-ext-7.0" />
         <Parameter Name="processValue" Type="System.Func&lt;Microsoft.Extensions.Configuration.ConfigurationDebugViewContext,System.String&gt;" Index="1" FrameworkAlternate="dotnet-plat-ext-7.0" />
       </Parameters>
       <Docs>
